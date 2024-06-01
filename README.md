@@ -1,2 +1,3 @@
 # CVWEB
-CV WEB INTRO
+Proyecto final: Introducción a los sistemas
+Currículum vitae
